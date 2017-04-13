@@ -1,0 +1,7 @@
+2017-01-21 08:10:29,295 [main] INFO com.hart.test.TestScript - Running Post Login...
+2017-01-21 08:10:29,301 [main] INFO com.hart.controller.RestExecutor - Verifying Post Login
+2017-01-21 08:10:30,188 [main] INFO com.hart.controller.RestExecutor - User Id: d25625dd7f330697e23183fc782e3650
+2017-01-21 08:10:30,189 [main] INFO com.hart.controller.RestExecutor - Access Token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxOWI2NWU2Mi0zZjgwLTQ1OTEtOGJiZi0wNmRlODZiMGIxM2IiLCJhdWQiOiJhc3Ryby5oYXJ0c29sdXRpb24uY29tIiwiaXNzIjoiSGFydCBBUEkifQ.DSJPT8GCZJ7zQk2NYFMCRc1ZxJ6NOPE5QEbh7MeEwnM
+2017-01-21 08:10:30,197 [main] INFO com.hart.test.TestScript - Running Allergies test...
+2017-01-21 08:10:30,197 [main] INFO com.hart.controller.RestExecutor - Verifying Get Param
+2017-01-21 08:10:30,695 [main] INFO com.hart.controller.RestExecutor - List Size: 8

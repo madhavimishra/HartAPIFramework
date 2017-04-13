@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Hart application api test">
+  <test name="API Test">
+    <classes>
+      <class name="com.hart.test.TestScript"/>
+    </classes>
+  </test>
+</suite>

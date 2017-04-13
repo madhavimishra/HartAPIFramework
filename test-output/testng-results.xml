@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hart application api test" duration-ms="1418" started-at="2017-01-21T16:10:29Z" finished-at="2017-01-21T16:10:30Z">
+    <groups>
+    </groups>
+    <test name="API Test" duration-ms="1418" started-at="2017-01-21T16:10:29Z" finished-at="2017-01-21T16:10:30Z">
+      <class name="com.hart.test.TestScript">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.hart.test.TestScript@148080bb]" name="testLogin" is-config="true" duration-ms="906" started-at="2017-01-21T08:10:29Z" finished-at="2017-01-21T08:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testGetAllergies()[pri:0, instance:com.hart.test.TestScript@148080bb]" name="testGetAllergies" duration-ms="503" started-at="2017-01-21T08:10:30Z" finished-at="2017-01-21T08:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllergies -->
+      </class> <!-- com.hart.test.TestScript -->
+    </test> <!-- API Test -->
+  </suite> <!-- Hart application api test -->
+</testng-results>
